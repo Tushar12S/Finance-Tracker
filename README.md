@@ -8,7 +8,7 @@ This project is a **Finance Tracking System** built using the **MERN (MongoDB, E
 
 ### **Frontend (React.js)**
 - ⚛️ **React.js** – Dynamic UI with state management  
-- 🎨 **Tailwind CSS** – Responsive and modern styling  
+- 🎨 **CSS** – Responsive and modern styling  
 - 🔄 **React Hooks** – Managing state efficiently  
 - 🌍 **Fetch API / Axios** – Communicating with the backend  
 
@@ -30,7 +30,6 @@ This project is a **Finance Tracking System** built using the **MERN (MongoDB, E
 ✔️ **Data Persistence with MongoDB Atlas**  
 ✔️ **Responsive & User-Friendly UI**  
 ✔️ **Frontend Deployed on Vercel**  
-✔️ **Backend Deployed on Render**  
 
 
 ## 📌 How It Works
