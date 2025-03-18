@@ -22,7 +22,6 @@ This project is a **Finance Tracking System** built using the **MERN (MongoDB, E
 - 🛢️ **MongoDB Atlas** – Cloud-hosted database  
 - 🌎 **Vercel** – Hosting frontend  
 
----
 
 ## 🔐 Features
 ✔️ **Track Income & Expenses**  
@@ -33,7 +32,6 @@ This project is a **Finance Tracking System** built using the **MERN (MongoDB, E
 ✔️ **Frontend Deployed on Vercel**  
 ✔️ **Backend Deployed on Render**  
 
----
 
 ## 📌 How It Works
 1️⃣ **Users can add income or expense transactions.**  
@@ -41,11 +39,9 @@ This project is a **Finance Tracking System** built using the **MERN (MongoDB, E
 3️⃣ **The system calculates the total balance dynamically.**  
 4️⃣ **Transaction data is stored in MongoDB and retrieved via API.**  
 
----
 
 ## 📜 License
 This project is licensed under the **MIT License**.
 
----
 
 🚀 **Finance Tracker - Manage your money wisely!** 🏦🔥  
