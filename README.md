@@ -2,7 +2,7 @@
 
 This project is a **Finance Tracking System** built using the **MERN (MongoDB, Express, React, Node.js) stack**. It enables users to **record, manage, and analyze their financial transactions efficiently**. The system supports **adding income and expenses**, calculating **real-time balance**, and provides a **REST API** for backend operations. The frontend is deployed on **Vercel**, while the backend is hosted on **Render** with MongoDB Atlas as the database.
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -21,7 +21,6 @@ This project is a **Finance Tracking System** built using the **MERN (MongoDB, E
 ### **Database & Deployment**
 - 🛢️ **MongoDB Atlas** – Cloud-hosted database  
 - 🌎 **Vercel** – Hosting frontend  
-- 🚀 **Render** – Hosting backend  
 
 ---
 
