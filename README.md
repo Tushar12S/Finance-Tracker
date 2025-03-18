@@ -1,59 +1,52 @@
-# Finance-Tracker
+# 💰 Finance Tracker - MERN Stack Application
 
-This is a simple finance tracker application built with React. It allows users to track their financial transactions, view their balance, and analyze expenses.
+This project is a **Finance Tracking System** built using the **MERN (MongoDB, Express, React, Node.js) stack**. It enables users to **record, manage, and analyze their financial transactions efficiently**. The system supports **adding income and expenses**, calculating **real-time balance**, and provides a **REST API** for backend operations. The frontend is deployed on **Vercel**, while the backend is hosted on **Render** with MongoDB Atlas as the database.
 
-## Getting Started
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🛠️ Technologies Used
 
-### Prerequisites
+### **Frontend (React.js)**
+- ⚛️ **React.js** – Dynamic UI with state management  
+- 🎨 **Tailwind CSS** – Responsive and modern styling  
+- 🔄 **React Hooks** – Managing state efficiently  
+- 🌍 **Fetch API / Axios** – Communicating with the backend  
 
-Make sure you have the following installed:
-- [Node.js](https://nodejs.org/)
-- [Yarn](https://yarnpkg.com/) (or use `npm`)
+### **Backend (Node.js + Express.js)**
+- 🛠️ **Express.js** – Handling API requests  
+- 🗄️ **MongoDB & Mongoose** – Database storage  
+- 🔒 **CORS & Body-Parser** – Secure data transmission  
+- 🔑 **Dotenv** – Managing environment variables  
 
-## Available Scripts
+### **Database & Deployment**
+- 🛢️ **MongoDB Atlas** – Cloud-hosted database  
+- 🌎 **Vercel** – Hosting frontend  
+- 🚀 **Render** – Hosting backend  
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## 🔐 Features
+✔️ **Track Income & Expenses**  
+✔️ **Real-time Balance Calculation**  
+✔️ **Secure REST API with CRUD operations**  
+✔️ **Data Persistence with MongoDB Atlas**  
+✔️ **Responsive & User-Friendly UI**  
+✔️ **Frontend Deployed on Vercel**  
+✔️ **Backend Deployed on Render**  
 
-Runs the app in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see lint errors in the console.
+## 📌 How It Works
+1️⃣ **Users can add income or expense transactions.**  
+2️⃣ **Each transaction includes name, amount, date, and description.**  
+3️⃣ **The system calculates the total balance dynamically.**  
+4️⃣ **Transaction data is stored in MongoDB and retrieved via API.**  
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📜 License
+This project is licensed under the **MIT License**.
 
-### `yarn build`
+---
 
-Builds the app for production in the `build` folder.\
-It optimizes the React app for the best performance.
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Warning:** This is a one-way operation. Once you `eject`, you cannot go back!
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all configuration files and dependencies into your project so you can fully customize them.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Deployment
-
-This section has moved here: [Deployment Guide](https://facebook.github.io/create-react-app/docs/deployment)
-
-### Troubleshooting
-
-- If you run into build issues, check: [Build Issues](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🚀 **Finance Tracker - Manage your money wisely!** 🏦🔥  
